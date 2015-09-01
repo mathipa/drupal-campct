@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Drush make and a little magic",
+    "packageVersion": "0.0.0",
+    "revealTheme": "moon",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "mathipa",
+    "githubRepository": "drupal-campct"
+  }
+}
